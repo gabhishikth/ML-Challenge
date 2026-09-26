@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+models/*.joblib
+models/*.duckdb
+models/*.sqlite
+experiments/*.json
+output/*.tsv
+output/**/*.tsv
